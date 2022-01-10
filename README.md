@@ -27,7 +27,9 @@ var qrcode = new QRCode(document.getElementById("qrcode"), {
 ```
 
 and you can use some methods
-
+#ewumesh
+#Ewumesh
+#umesh
 ```
 qrcode.clear(); // clear the code.
 qrcode.makeCode("http://naver.com"); // make another code.
